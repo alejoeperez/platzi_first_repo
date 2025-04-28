@@ -3,3 +3,5 @@ this is a new file
 Commit from GitHub
 
 new change from Visual studio
+
+second change
