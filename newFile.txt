@@ -2,4 +2,4 @@ this is a new file
 
 Commit from GitHub
 
-new change
+new change from Visual studio
