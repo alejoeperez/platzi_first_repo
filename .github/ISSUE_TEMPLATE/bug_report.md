@@ -1,7 +1,13 @@
-This is template for Issues
+---
+name: Bug report
+about: Crea un reporte de un error para ayudarnos a mejorar
+title: "[BUG]"
+labels: bug
+assignees: ''
 
-Issue Title
-/*Write a title for the Issue*/
+---
 
-Description
-/*here should be the description of the issue*/
+**Describe el bug**
+Una descripción clara y concisa del bug...
+
+<!-- Resto del template aquí -->
